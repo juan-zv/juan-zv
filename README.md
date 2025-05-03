@@ -14,11 +14,17 @@ These are links to the projects I made which are hosted with GitHub pages:
   - [Combined HTML and CSS Validator](https://juan-zv.github.io/combined-validator-vanillajs/)
 
 <div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=juan-zv&show_icons=true&theme=dark&count_private=true&hide=prs&include_all_commits=true&hide_border=true" alt="github-stats">
+  
+<!-- ![Juan Zurita's GitHub stats](https://github-readme-stats.vercel.app/api?username=juan-zv&show_icons=true&theme=dark&count_private=true&hide=prs&include_all_commits=true&hide_border=true) -->
 
-![Juan Zurita's GitHub stats](https://github-readme-stats.vercel.app/api?username=juan-zv&show_icons=true&theme=dark&count_private=true&hide=prs&include_all_commits=true&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=juan-zv&show_icons=true&theme=dark&count_private=true&hide=prs&include_all_commits=true&hide_border=true" alt="languages-stats">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juan-zv&layout=compact&theme=dark&hide=html,css&hide_border=true)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juan-zv&layout=compact&theme=dark&hide=html,css&hide_border=true) -->
 
-![Juan Zurita's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=juan-zv&theme=dark&date_format=j%20M%5B%20Y%5D&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=juan-zv&show_icons=true&theme=dark&count_private=true&hide=prs&include_all_commits=true&hide_border=true" alt="streak-stats">
+
+<!-- ![Juan Zurita's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=juan-zv&theme=dark&date_format=j%20M%5B%20Y%5D&hide_border=true) -->
 
 </div>
